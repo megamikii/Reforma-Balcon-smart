@@ -8,7 +8,8 @@ Despues de un tiempo decidi ponerme a  cortar aunque fuese los  perfiles, tengo 
 Queriamos poner unas luces de navidad en la terraza pero no teniamos e.... ya lo pndre...
 
 Pero vamos con el dia, de hoy, ahora mismo estoy focus en la parte electrica de la terraza, estos son los elementos que nos gustaria cambiar/poner: (todo es mientras mi novia y yo nos ponemos de acuerdo con la decoracion y la estructuracion de todo).
-### Cambiar el conexionado electrico de la terraza:
+
+### preinstalacion del conexionado electrico de la terraza:
 
 #### OBJETIVO:
 Me gustaria poner un interruptor triple para separar ambientes, dos enchufes en el  sofa, y alomejor, una o dos tiras led en el techo y/o debajo del sofa. 
@@ -26,6 +27,22 @@ Materales que necesito: cale de fase para el interruptor triple, cables neutro t
 
 -cuarto: para este paso necesito ver si puedo meter cables ya o puede que se dañe al colocar el pladur, asi que llevar el tubo corrugado sin cable metido, a todos los puntos puestos en el paso anterior, dejar tubo corrugado hasta la caja de conexiones, de ahi a los dos enchufes del sofa y al punto de luz de las led, despues ver hasta donde llega el cable que ya esta para el enchufe, para intentar que llegue hasta la marca de la caja del paso anterior dejando como 50cm de cable extra. Protegiendo los extremos con cinta aislanteo incluso desconectando estos cables de la caja de conexiones naterior. Si veo que puedo dejar cable metido para el resto elementos, lo hago.
 
-##
-
 -quinto: dejar el tubo fijado provisionalmente, al techo, y a la cristalera, dejar tambien superpuesta la caja de conexiones y dejar los tubos marcados, especificar para que es cada uno.
+
+### Conexionado tiras led.
+
+#### Que leds voy a usar?.
+#### Conexionado electrico.
+
+Las tiras led inteligentes llevan, la propia tira led, un cotrolador, que es el que se encarga de comunicarse con home assistant, un transformador de 12v a 230v y el enchufe.
+La mayor parte de las tiras led llevan el transformador y el enchufe juntos, mo puedo cortar los cable del enchufe oelarlos y conectarlos a la salida del interruptor que las encienda, entonces:
+##### Como lo puedo hacer??.
+Tengo que decidir entre:
+   -controlar la tira led desde el móvil. Entonces la primera opcion seria;
+   conectar la tira led directamente a los cables wue vienen de la caja de conexiones.
+   problemas: las tiras led tiene transformador y enchuefe en una misma pieza, te dria que cortarlos y comprar un transformador 12/24v conectarlo a la tira led y de el a los cables de 230v directamente, prediendo la garantia de la led.
+   La segunda opcion seria:
+   poner un enchufe dentro del sofa para la led del sofa, o dentro del falso techo para la led de la terraza, conertar la tira led a ellos sin cortar nada.
+   problemas: es mmas chapuza, porque guay es conertarlas directamente a la red, aunque si que es cierto que las tiras led inteligentes, normalemente se enchufan en vez conectarlas a la red directamente. El otro problema es que el enchufe del falso techo estari mas expuesto a la lluvia, creo, porque al final esta dentro del falso techo, no se yo...
+   -contraolarla desde un interruptor y el móvil.
+#### Domótica.
