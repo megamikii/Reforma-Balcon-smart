@@ -16,7 +16,7 @@ llevar al punto limpio, las bicis, la malla, alomejor colocar los azulejos en el
 #### Materiales.
 
 Mirar si tengo materiales suficientes para lo que se pueda hacer antes de decidir la decoracion y empezar con el pladur. cables, tubos corrugaos, enchufes, cajas estancas...
-
+Tengo cable para poder empezar con el interruptor, tengo la caja de conexiones, vale como vamos a tardar en montar todo lo suyo seria hacer u esquema electrico y cuando vallamos a montar el pladur ponerlo, si que puedo dejar puesto tubo corrugado que valla por el techo, peo el que va por el sofa no porque se quedaria por ahi tirado alomejor varios meses. Ademas con el esquema puedo ver cuantos metros de cable me faltan para todo lo demas y cajas de conexio es  y demas elementos...
 #### Preinstalación electrica.
 
 Marcar puntos de enchufes y cajas de conexiones, instalar tubos corrugados, dejar cajas de conexion superpuestas, todo el tema del wifi. Cambiar conexionado interruptor simple a triple. Llevar el encufe que esta ahora hasta la caja de conexion del sofa y colocarlo bien, en una clema, ya que ese sera el punto de donde salen todos los elementos electricos de la terraza. Alomejor meterlo en una caja estanca. Dejar preinstalado el caleado para tiras led cuando decida que voy a usar, para que cuando compre os materiales conectarlo y listo.
