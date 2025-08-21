@@ -104,8 +104,9 @@ No se puede pintar solamente porque, hay una parte que ya alosaron los obretos p
 - Con uno o varios trapos limpiar solo con agua el polvo de haber lijado y lo que halla podido quedar y dejar secar.
 - Nosotros vamos a plicar sikawall-08 fijador, para wue la pintura wue ya esta en la oared se wuede bie adherida y el mortero axton se adhiera mejor también (no sabemos sin funcianara), lo aplicamos con pincel o rodillo, en principio en una capa es suficiente, pero nosotros le hemos puesto 3 porque no veiamo que agarrase bien, después de aplocarlo dejar secar de 5 a 6 horas.
 - Vamos a alisarla con mortero+cal de capa gruesa de axton, porque nos dijeron que para principiantes mejor gruesa, vamos a probar primero si agarra bien, después aplicamos con llana y espatula en capss lo mas fina que podamos, y vamos emplamando manos, dejamos secar para poder poner la segunda mano al menos 3h, para poder pintar, 1 semana.
+- Tras 3-4 horas de fraguado, aplocar, de nuevo, el sikawall-08 para que se fije bien el mortero y la pintura se adhiera bien. Dejar secar 5-6 horas.
 - pintar con pintura para fachadas, camos a usar, en principio, la pintura para fachadas de montó, la queremos en un tono beige para que de calided y no nos quedemos cegatos cuando de el sol.
-- 
+  
 #### pladur.
 #### Malla y ventanas.
 #### Tendedero.
