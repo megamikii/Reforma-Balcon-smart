@@ -23,7 +23,8 @@ COSAS QUE NECESITO:
 
 #### Preinstalación electrica.
 
-Hacer esquema eléctrico para ver donde va cada cosa y cuando venga pongamos el pladur colocarlo segun el plano. Cambiar conexionado interruptor simple a triple. Para ello:
+Hacer esquema eléctrico para ver donde va cada cosa y cuando pongamos el pladur colocarlo segun el plano.\n
+Cambiar conexionado interruptor simple a triple. Para ello:
 - Abrir la caja de conexiones e identificar los cables que van al interruptor, normalmente uno negro que va hacia el interrupto y otro marron que va de salida hacia el pinto de luz.
 - Meter un pasacables desde uno de los lados del tubo corrugado, cuando salga, agarrar a ese extremo con cinta asislante los cables que tenemos que meter, dos marrones para los otros dos farolillos y uno azul por si el nievo interruptor lo necesita, que creo que si.
 - Desconectar los cables de fase que vienen de los puntos de luz, y conectarlos con clemas a los cables marrones que habiamos metido.
