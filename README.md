@@ -15,7 +15,7 @@ llevar al punto limpio, las bicis, la malla, alomejor colocar los azulejos en el
 
 #### Materiales.
 
-Mirar si tengo materiales suficientes para lo que se pueda hacer antes de decidir la decoracion y empezar con el pladur. cables, tubos corrugados, enchufes, cajas estancas...
+Mirar si tengo materiales suficientes, para lo que se pueda hacer antes de decidir la decoracion y empezar con el pladur. cables, tubos corrugados, enchufes, cajas estancas...
 Tengo cable para poder empezar con el interruptor, tengo la caja de conexiones, vale como vamos a tardar en montar todo lo suyo seria hacer un esquema electrico y cuando vallamos a montar el pladur ponerlo, si que puedo dejar puesto tubo corrugado que valla por el techo, pero el que va por el sofa no porque se quedaria por ahi tirado alomejor varios meses. Ademas con el esquema puedo ver cuantos metros de cable me faltan para todo lo demas, cajas de conexiones  y demas elementos...
 
 COSAS QUE NECESITO:
@@ -23,7 +23,15 @@ COSAS QUE NECESITO:
 
 #### Preinstalación electrica.
 
-Marcar puntos de enchufes y cajas de conexiones, instalar tubos corrugados, dejar cajas de conexion superpuestas, todo el tema del wifi. Cambiar conexionado interruptor simple a triple. Llevar el encufe que esta ahora hasta la caja de conexion del sofa y colocarlo bien, en una clema, ya que ese sera el punto de donde salen todos los elementos electricos de la terraza. Alomejor meterlo en una caja estanca. Dejar preinstalado el cableado para la tira led cuando decida que voy a usar, para que cuando compre los materiales conectarlo y listo.
+Hacer esquema eléctrico para ver donde va cada cosa y cuando venga pongamos el pladur colocarlo segun el plano. Cambiar conexionado interruptor simple a triple. Para ello:
+- Abrir la caja de conexiones e identificar los cables que van al interruptor, normalmente uno negro que va hacia el interrupto y otro marron que va de salida hacia el pinto de luz.
+- Meter un pasacables desde uno de los lados del tubo corrugado, cuando salga, agarrar a ese extremo con cinta asislante los cables que tenemos que meter, dos marrones para los otros dos farolillos y uno azul por si el nievo interruptor lo necesita, que creo que si.
+- Desconectar los cables de fase que vienen de los puntos de luz, y conectarlos con clemas a los cables marrones que habiamos metido.
+- Comprobar wue estan bien conectados, identificando los cables grises con cada punto de luz, yo los puse mal.
+- Comprobar wue todos funcionan bien, como solo tengo un interruptor simple yo fui conectandolos uno por uno al interruptor pero tambien se podrian puentear directamente.
+- Yo los deje conectados en la caja de conesxiones, pero desconectados en la terraza porque vamos a alisarla.
+
+Llevar el encufe que esta ahora hasta la caja de conexion del sofa y colocarlo bien, en una clema, ya que ese sera el punto de donde salen todos los elementos electricos de la terraza. Alomejor meterlo en una caja estanca. Dejar preinstalado el cableado para la tira led cuando decida que voy a usar, para que cuando compre los materiales conectarlo y listo.
 
 #### Pared.
 
